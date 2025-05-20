@@ -1,7 +1,4 @@
 # CrowdSec Ambassadors
-Content and collaboration with CrowdSec ambassadors
-
-# CrowdSec Ambassadors
 
 Welcome to the official repository for **CrowdSec Ambassadors**! 🎉
 
